@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itisha3
 - 👀 I’m interested in Data Science and machine learning
-- 🌱 I’m currently learning CP , data science
+- 🌱 I’m currently working as a big data engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin - https://www.linkedin.com/in/itisha-gajbhiye-b9a6b9260/
 
